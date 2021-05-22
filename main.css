@@ -1,5 +1,5 @@
 .Background1{
-background-image:url("images/sincerely-media-wZz5YUhP1HI-unsplash.jpg");
+background-image:url("images/images/sincerely-media-wZz5YUhP1HI-unsplash.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 margin: 0px;
@@ -13,7 +13,7 @@ padding: 0px;
 }
 
 .Background2{
-background-image:url("images/white.jpg");
+background-image:url("images/images/white.jpg");
 background-size: cover;
 background-repeat: no-repeat;
 margin: 0px;
@@ -184,7 +184,7 @@ padding: 0px;
   }
 
 .Background4{
-    background-image:url("images/white.jpg");
+    background-image:url("images/images/white.jpg");
     margin: 0px;
     padding: 0px;
     background-size: cover;
